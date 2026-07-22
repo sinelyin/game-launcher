@@ -1,6 +1,5 @@
 # game-launcher
-Sinelyin Oyun Başlatıcısı
-Bu projenin ticari bir amacı yoktur. Ücretsizdir.
+Sinelyin Oyun Başlatıcısı. Bu projenin ticari bir amacı yoktur. Ücretsizdir.
 
 Sinelyin - Oyun Başlatıcı, %100 taşınabilir ve tamamen otomatikleştirilmiş bir oyun başlatıcıdır.
 
