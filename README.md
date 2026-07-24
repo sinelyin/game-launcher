@@ -1,11 +1,11 @@
 # game-launcher
-Sinelyin Oyun Başlatıcısı. Bu projenin ticari bir amacı yoktur. Ücretsizdir.
+Sinelyin - Oyun Başlatıcısı. Bu projenin ticari bir amacı yoktur. Ücretsizdir.
 
-Sinelyin - Oyun Başlatıcı, %100 taşınabilir ve tamamen otomatikleştirilmiş bir oyun başlatıcıdır.
+Kurulumsuz, %100 taşınabilir ve tamamen otomatikleştirilmiş bir oyun başlatıcıdır.
 
 Sürüm uyumsuzluklarını, Versiyon değişikliğini kolaylaştırır ve başlangıç çökmelerini çözer.
 
-✨ Temel Özellikler
+✨ Temel Özellikler:
 
 ✅ Basit Kurulum ve Kullanım sunar.
 
@@ -13,15 +13,15 @@ Sürüm uyumsuzluklarını, Versiyon değişikliğini kolaylaştırır ve başla
 
 🖥️ Dinamik Çözünürlük: Çözünürlük seçimine olanak tanır.
 
-🌐 SINELYIN Ekosistemi: Standart bağımsız paket altyapısını destekler.
+🌐 Sinelyin Ekosistemi: Standart bağımsız paket altyapısını destekler.
 
-Türkçe ve İngilizce dil desteği.
+🔄 Türkçe ve İngilizce dil desteği.
 
 📁 Dosya Yönetimi
 
 🚀 Hızlı Kullanım
 
-Arşivi herhangi bir sürücünün kök dizinine çıkarın (örneğin, C:\Sinelyin_GAME).
+Arşivi herhangi bir sürücünün kök dizinine çıkarın (örneğin, C:\GAME_Launcher).
 
 Launcher.exe dosyasını çalıştırın.
 
