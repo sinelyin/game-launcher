@@ -1,5 +1,5 @@
 # game-launcher
-Sinelyin - Oyun Başlatıcısı. Bu Normal herkese erişike açık projenin ticari bir amacı yoktur. Ücretsizdir.
+Sinelyin - Oyun Başlatıcısı. Bu Normal herkese erişime açık projenin ticari bir amacı yoktur. Ücretsizdir.
 
 Kurulumsuz, %100 taşınabilir ve tamamen otomatikleştirilmiş bir oyun başlatıcıdır.
 
