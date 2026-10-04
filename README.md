@@ -1,7 +1,9 @@
 # game-launcher
-Sinelyin - Oyun Başlatıcısı. Bu Normal herkese erişime açık projenin ticari bir amacı yoktur. Ücretsizdir.
+Game Launcher - Sinelyin
+Oyun Başlatıcısı. 
+Bu Normal herkese erişime açık projenin ticari bir amacı yoktur. Ücretsizdir.
 
-Kurulumsuz, %100 taşınabilir ve tamamen otomatikleştirilmiş bir oyun başlatıcıdır.
+Kurulumsuz, %100 taşınabilir ve tamamen otomatikleştirilmiş bir oyun başlatıcısıdır.
 
 Sürüm uyumsuzluklarını, Versiyon değişikliğini kolaylaştırır ve başlangıç çökmelerini çözer.
 
@@ -11,7 +13,7 @@ Sürüm uyumsuzluklarını, Versiyon değişikliğini kolaylaştırır ve başla
 
 🔌 Ağ sorunlarını otomatik çözer.
 
-🖥️ Dinamik Çözünürlük: Çözünürlük seçimine olanak tanır. Güncel Windows Sistemler ile tam uyum.
+🖥️ Dinamik Çözünürlük: Çözünürlük seçimine olanak tanır. Güncel 64Bit Windows Sistemler ile tam uyum.
 
 🌐 Sinelyin Ekosistemi: Standart bağımsız paket altyapısını destekler.
 
@@ -20,11 +22,14 @@ Sürüm uyumsuzluklarını, Versiyon değişikliğini kolaylaştırır ve başla
 📁 Dosya Yönetimi
 - Yedekleme sistemi
 - Açık dosya yapısı
+- Yerel Çalışma güvenilir sistem
 
 🚀 Hızlı Kullanım
 - Otomatik Masaüstüne Kısayol gönderir.
 - Versiyon değişikliklerini oyun için istenilen seçime göre otomatik yapar.
 - Seçili arayüz dilini otomatik olarak oyuna uygular.
+- Supabase servisi ile aktif oyuncu sayısı görünümü.
+- Discord 'Oynuyor' eklentisi.
 
 Arşivi herhangi bir sürücünün kök dizinine çıkarın (örneğin, C:\GAME_Launcher).
 
