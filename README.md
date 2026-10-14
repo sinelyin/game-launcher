@@ -9,7 +9,7 @@ Sürüm uyumsuzluklarını, Versiyon değişikliğini kolaylaştırır ve başla
 
 ✨ Temel Özellikler:
 
-✅ Basit Kullanım ve Kurulumsuz bir sunar.
+✅ Basit Kullanım ve Kurulumsuz bir kullanım sunar.
 
 🔌 Ağ sorunlarını otomatik çözer.
 
