@@ -1,4 +1,4 @@
 {
   "game_normal": { "version": "1.1.8", "reset": "true", "target_url": "https://youtu.be/IMYpnLOorV0" },
-  "game_mod": { "version": "1.0.0", "reset": "true",  "target_url": "https://youtu.be/DqvE51D1CnI", "download_url": "https://youtu.be/s3WdeIE2X4c" }
+  "game_mod": { "version": "1.0.1", "reset": "true",  "target_url": "https://youtu.be/DqvE51D1CnI", "download_url": "https://youtu.be/s3WdeIE2X4c" }
 }
