@@ -1,4 +1,4 @@
 {
-  "game_normal": { "version": "1.2.0", "reset": "false", "target_url": "https://www.youtube.com/@sinelyin" },
+  "game_normal": { "version": "1.2.1", "reset": "false", "target_url": "https://www.youtube.com/@sinelyin" },
   "game_mod": { "version": "1.0.3", "reset": "false",  "target_url": "https://www.youtube.com/@sinelyin", "download_url": "https://youtu.be/s3WdeIE2X4c" }
 }
